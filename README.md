@@ -1,4 +1,4 @@
-# TraceHAR Data Collector 📱
+# TraceHAR 📱
 
 An Android application for collecting Human Activity Recognition (HAR) sensor data for machine learning research and dataset creation.
 
