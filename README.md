@@ -43,8 +43,12 @@ timestamp,activity,acc_x,acc_y,acc_z,gyro_x,gyro_y,gyro_z,linear_acc_x,linear_ac
 - Android device with API level 21+ (Android 7.0+)
 - Device with accelerometer and gyroscope sensors
 
-Preview:
+<div align="center">
+    <h3>Preview:</h3>
 
-![Preview](_img/preview.png)
+    <img src="_img/preview.png" alt="Preview" width="400"/>
+
+</div>
+
 
 > Issue? Contact me: marcfreir@outlook.com
