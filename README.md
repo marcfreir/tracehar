@@ -45,8 +45,7 @@ timestamp,activity,acc_x,acc_y,acc_z,gyro_x,gyro_y,gyro_z,linear_acc_x,linear_ac
 
 <div align="center">
     <h3>Preview:</h3>
-
-    <img src="_img/preview.png" alt="Preview" width="400"/>
+    <img src="_img/preview.png" alt="Preview" width="280"/>
 
 </div>
 
